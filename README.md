@@ -20,6 +20,16 @@ AOV **ranged from approximately $216 to $322** between 2019 and 2022, with an ov
 
 In **December 2020**, when both sales and order volume **peaked at approximately $1.25M and 4,019 orders**, AOV was about **$311**. Overall, AOV remained relatively stable compared with the larger fluctuations in sales and order volume. This suggests that **changes in order volume were a major driver of monthly sales performance**, rather than large changes in customer spending per order.
 
+#### Seasonal Trends And Growth Rates
+
+**Peak Sales Months**: In 2019 and 2020, annual sales peaked in **December**, aligning with the holiday shopping season. In 2021 and 2022, however, the peak shifted to **January**, suggesting a change in the seasonal sales pattern toward the beginning of the year.
+
+**Lowest Sales Months**: The lowest monthly sales occurred in **January/February** in 2019 and 2020, which may reflect a post-holiday slowdown. In 2021 and 2022, the lowest sales shifted to **October**, suggesting a potential slowdown before Black Friday and the holiday shopping season.
+
+**Month-over-Month Growth**: The strongest month-over-month growth occurred around November and December in three of the four years, indicating sales momentum typically builds ahead of the December/January peak period. 2020 was an exception, with the highest growth occurring in March. This may reflect unusual purchasing behavior during the early COVID-19 period, although product-level data would be needed to determine whether work-from-home or electronics purchases were the main drivers.
+
+The steepest month-over-month declines generally occurred either after the holiday season or before the year-end shopping period, particularly around February and October. Overall, the data suggests a recurring seasonal pattern of stronger growth approaching the holidays, followed by weaker sales afterward.
+
 ## Growth Rates
 
 ## Loyalty Program
