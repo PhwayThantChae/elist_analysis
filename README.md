@@ -33,6 +33,10 @@ In **December 2020**, when both sales and order volume **peaked at approximately
 
 Overall, the data suggests a recurring seasonal pattern of stronger growth approaching the holidays, followed by weaker sales afterward.
 
+## Product Trends
+
+## Geography Trends
+
 
 ## Loyalty Program
 
