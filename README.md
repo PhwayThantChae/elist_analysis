@@ -12,6 +12,8 @@ Monthly sales generally increased from 2019 through 2020, peaking at approximate
 On a yearly basis, sales increased sharply from **$3.9M in 2019, the lowest annual sales** during the period, to a **peak of $10.2M in 2020**. Sales then declined slightly to $9.1M in 2021, followed by a larger decrease to approximately $5.0M in 2022.
 #### Sales Growth Rates
 
+<ins>text</ins>
+
 ### Order Count
 Monthly order volume followed a similar pattern to sales. Orders **peaked at approximately 4,019 in December 2020**, then declined to **825 in October 2022, the lowest monthly order count between 2019 and 2022**, before recovering slightly to approximately 1,120 in December 2022.
 
