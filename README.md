@@ -35,13 +35,15 @@ Overall, the data suggests a recurring seasonal pattern of stronger growth appro
 
 ## Product Trends
 
-The top three selling products from 2019 to 2022 were the 27-inch 4K Gaming Monitor, Apple AirPods Headphones, and MacBook Air Laptop. Together, these products accounted for approximately 80% of total sales, indicating that revenue was highly concentrated among a small number of products.
+The **top three selling products** from 2019 to 2022 were the **27-inch 4K Gaming Monitor, Apple AirPods Headphones, and MacBook Air Laptop**. Together, these products accounted for approximately **80% of total sales**, indicating that revenue was highly concentrated among a small number of products.
 
-The 27-inch 4K Gaming Monitor remained the top-selling product throughout the period. Sales peaked at approximately **$3.3M in 2021**, representing about 37% of total sales that year and an average of approximately 36% of annual sales from 2019 to 2022. Monitor sales increased by approximately 114% from 2019 to 2020 and another 8% in 2021, before declining by approximately 42% in 2022. Despite the decline, it remained the leading revenue-generating product.
+The **27-inch 4K Gaming Monitor** remained the **top-selling** product throughout the period. Sales **peaked at approximately $3.3M, representing about 37% of total sales in 2021** and an average of approximately 36% of annual sales from 2019 to 2022. Monitor sales increased by approximately 114% from 2019 to 2020 and another 8% in 2021, before declining by approximately 42% in 2022. Despite the decline, it remained the leading revenue-generating product.
 
-Overall product sales weakened significantly in 2022, with total sales declining by approximately 46% from 2021. Bose SoundSport Headphones experienced the largest decline, with sales decreasing by approximately 91% from 2021 to 2022.
+**The MacBook Air Laptop** showed particularly strong growth in **2020, increasing by approximately 384%**, followed by slower growth in 2021 and a **55% decline in 2022**. A similar pattern was observed for the ThinkPad Laptop.
 
-The MacBook Air Laptop showed particularly strong growth in 2020, increasing by approximately 384%, followed by slower growth in 2021 and a 55% decline in 2022. A similar pattern was observed for the ThinkPad Laptop.
+**Overall product sales weakened significantly in 2022**, with total sales **declining by approximately 46% from 2021**. **Bose SoundSport Headphones** experienced the **largest decline**, with sales decreasing by approximately 91% from 2021 to 2022.
+
+
 
 ## Geography Trends
 
