@@ -27,7 +27,7 @@ In **December 2020**, when both sales and order volume **peaked at approximately
 
 ## Growth Rates
 
-**Month-over-Month Sales Growth**: The **strongest month-over-month growth** occurred around **November and December in three of the four years**, indicating sales momentum typically builds ahead of the December/January peak period. **The steepest month-over-month** declines generally occurred either after the holiday season or before the year-end shopping period, particularly around **February and October**. 
+**Month-over-Month Sales Growth**: The **strongest sales growth** occurred around **November and December in three of the four years**, indicating sales momentum typically builds ahead of the December/January peak period. **The steepest month-over-month** declines generally occurred either after the holiday season or before the year-end shopping period, particularly around **February and October**. 
 
 **2020** was an exception, with the **highest growth occurring in March**. This may reflect unusual purchasing behavior during the early COVID-19 periods.
 
