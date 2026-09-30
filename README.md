@@ -7,7 +7,7 @@ Sales trend analysis for e-commerce company
 # Deep-dive Insights
 ## Sales Trend
 
-![Alt Text](charts/monthly-revenue-chart.png)
+![Alt Text](charts/1-monthly-revenue-chart.png)
 
 <p align="center">
   <img src="charts/2-monthly-order-count-chart.png" width="49%" height="100%" />
