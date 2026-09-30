@@ -10,8 +10,8 @@ Sales trend analysis for e-commerce company
 ![Alt Text](charts/monthly-revenue-chart.png)
 
 <p float="middle">
-  <img src="charts/monthly-revenue-chart.png" width="48%" />
-  <img src="charts/monthly-revenue-chart.png" width="48%" /> 
+  <img src="charts/monthly-revenue-chart.png" width="48%" height="48%" />
+  <img src="charts/monthly-revenue-chart.png" width="48%" height="48%" /> 
 </p>
 
 Monthly sales generally increased from 2019 through 2020, peaking at approximately **$1.25M in December 2020**. Sales then trended downward through 2021 and 2022, despite some month-to-month fluctuations. The lowest monthly sales occurred in **October 2022 at approximately $178K**, followed by a slight recovery to $262K in December 2022. 
