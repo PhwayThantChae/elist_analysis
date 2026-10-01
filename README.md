@@ -1,18 +1,3 @@
----
-marp: true
-theme: default
----
-
-# Slide 1: Welcome!
-* This is my first bullet point.
-* This is my second bullet point.
-
----
-
-# Slide 2: Next Topic
-Here is some standard text or a code block.
-# Elist Analysis
-Sales trend analysis for e-commerce company
 
 # Overview
 ## ERD
