@@ -56,6 +56,7 @@ Overall, the data suggests a recurring seasonal pattern of stronger growth appro
 <p align="center">
   <img src="charts/5-product-pareto-revenue-analysis.png" width="65%" height="100%" />
 </p>
+
 The **top three selling products** from 2019 to 2022 were the **27-inch 4K Gaming Monitor, Apple AirPods Headphones, and MacBook Air Laptop**. Together, these products accounted for approximately **80% of total sales**, indicating that revenue was highly concentrated among a small number of products.
 
 The **27-inch 4K Gaming Monitor** remained the **top-selling** product throughout the period. Sales **peaked at approximately $3.3M, representing about 37% of total sales in 2021** and an average of approximately **36% of annual sales from 2019 to 2022**. Monitor sales increased by approximately 114% from 2019 to 2020 and another 8% in 2021, before declining by approximately 42% in 2022. Despite the decline, it remained the leading revenue-generating product.
