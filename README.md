@@ -45,6 +45,13 @@ In **December 2020**, when both sales and order volume **peaked at approximately
 
 ### Growth Rates
 
+<p align="center">
+  <img src="charts/7-mom-sales-growth-2019.png" width="40%" height="80%" />
+  <img src="charts/8-mom-sales-growth-2020.png" width="40%" height="80%" />
+  <img src="charts/9-mom-sales-growth-2021.png" width="40%" height="80%" />
+  <img src="charts/10-mom-sales-growth-2022.png" width="40%" height="80%" />
+</p>
+
 The **strongest sales growth** occurred around **November and December in three of the four years**, indicating sales momentum typically builds ahead of the December/January peak period. **The steepest month-over-month** declines generally occurred either after the holiday season or before the year-end shopping period, particularly around **February and October**. 
 
 **2020** was an exception, with the **highest growth occurring in March**. This may reflect unusual purchasing behavior during the early COVID-19 periods.
