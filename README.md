@@ -33,8 +33,10 @@ AOV **ranged from approximately $216 to $322** between 2019 and 2022, with an ov
 In **December 2020**, when both sales and order volume **peaked at approximately $1.25M and 4,019 orders**, AOV was about **$311**. Overall, AOV remained relatively stable compared with the larger fluctuations in sales and order volume. This suggests that **changes in order volume were a major driver of monthly sales performance**, rather than large changes in customer spending per order. -->
 
 ### Seasonal Trends
+<h3 align="center">Monthly Sales Seasonality Trend</h3>
+
 <p align="center">
-  <img src="charts/4-monthly-sales-seasonality-trend-table.png" width="49%" height="100%" />
+  <img src="charts/4-monthly-sales-seasonality-trend-table.png" width="55%" height="100%" />
 </p>
 
 **Peak Sales Months**: In 2019 and 2020, annual sales peaked in **December**, aligning with the holiday shopping season. In 2021 and 2022, however, the peak shifted to **January**, suggesting a change in the seasonal sales pattern toward the beginning of the year.
