@@ -36,7 +36,7 @@ In **December 2020**, when both sales and order volume **peaked at approximately
 <p align="center"><strong>Monthly Sales Seasonality By Year (2019 - 2022)</strong></p>
 
 <p align="center">
-  <img src="charts/4-monthly-sales-seasonality-trend-table.png" width="65%" height="100%" />
+  <img src="charts/4-monthly-sales-seasonality-trend-table.png" width="55%" height="100%" />
 </p>
 
 **Peak Sales Months**: In 2019 and 2020, annual sales peaked in **December**, aligning with the holiday shopping season. In 2021 and 2022, however, the peak shifted to **January**, suggesting a change in the seasonal sales pattern toward the beginning of the year.
@@ -54,7 +54,7 @@ Overall, the data suggests a recurring seasonal pattern of stronger growth appro
 ## Product Trends
 
 <p align="center">
-  <img src="charts/5-product-pareto-revenue-analysis.png" width="55%" height="100%" />
+  <img src="charts/5-product-pareto-revenue-analysis.png" width="65%" height="100%" />
 </p>
 The **top three selling products** from 2019 to 2022 were the **27-inch 4K Gaming Monitor, Apple AirPods Headphones, and MacBook Air Laptop**. Together, these products accounted for approximately **80% of total sales**, indicating that revenue was highly concentrated among a small number of products.
 
