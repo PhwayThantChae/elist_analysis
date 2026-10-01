@@ -34,7 +34,7 @@ In **December 2020**, when both sales and order volume **peaked at approximately
 
 ### Seasonal Trends
 
-![Alt Text](charts/4-monthly-sales-seasonality-trend-table)
+![Alt Text](charts/4-monthly-sales-seasonality-trend-table.png)
 
 **Peak Sales Months**: In 2019 and 2020, annual sales peaked in **December**, aligning with the holiday shopping season. In 2021 and 2022, however, the peak shifted to **January**, suggesting a change in the seasonal sales pattern toward the beginning of the year.
 
