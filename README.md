@@ -59,11 +59,12 @@ Overall, the data suggests a recurring seasonal pattern of stronger growth appro
 ## Product Trends
 
 <p align="center">
-  <img src="charts/5-product-pareto-revenue-analysis.png" width="65%" height="100%" />
+  <img src="charts/5-product-pareto-revenue-analysis.png" width="55%" height="100%" />
+  <img src="charts/11-top-4-products-total-sales.png" width="44%" height="100%" />
 </p>
 
 <p align="center">
-  <img src="charts/6-yoy-product-sales-growth.png" width="65%" height="100%" />
+  <img src="charts/6-yoy-product-sales-growth.png" width="50%" height="100%" />
 </p>
 
 The **top three selling products** from 2019 to 2022 were the **27-inch 4K Gaming Monitor, Apple AirPods Headphones, and MacBook Air Laptop**. Together, these products accounted for approximately **85% of total sales**, indicating that revenue was highly concentrated among a small number of products.
