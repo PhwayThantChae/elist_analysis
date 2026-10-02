@@ -74,7 +74,7 @@ The **27-inch 4K Gaming Monitor** remained the **top-selling** product throughou
 
 **Overall product sales weakened significantly in 2022**, with total sales **declining by approximately 46% from 2021**. **Bose SoundSport Headphones** experienced the **largest decline**, with sales decreasing by approximately 91% from 2021 to 2022. Since its introduction in 2020, it consistently recorded **the lowest sales revenue and order count among all products in 2020 - 2022**.
 
--- Need to mention post-covid sales are better than in what percentage compared to pre-covid sales --
+Despite the significant decline in 2022, **post-COVID sales remained above pre-COVID levels**. Total sales in 2022 were approximately **28% higher than in 2019**, indicating that overall sales performance remained stronger than the pre-pandemic baseline despite the recent downturn.
 
 --------------
 <!-- Apple iphone making 1% of avg total sales from 2019 - 2022
