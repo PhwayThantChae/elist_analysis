@@ -10,8 +10,8 @@ Sales trend analysis for e-commerce company
 ![Alt Text](charts/1-monthly-revenue-chart.png?v=2)
 
 <p align="center">
-  <img src="charts/2-monthly-order-count-chart.png" width="49%" height="100%" />
-  <img src="charts/3-monthly-aov-chart.png" width="49%" height="100%" />
+  <img src="charts/2-monthly-order-count-chart.png?v=2" width="49%" height="100%" />
+  <img src="charts/3-monthly-aov-chart.png?v=2" width="49%" height="100%" />
 </p>
 
 ### Revenue
