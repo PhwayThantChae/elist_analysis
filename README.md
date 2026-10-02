@@ -70,7 +70,7 @@ The **top three selling products** from 2019 to 2022 were the **27-inch 4K Gamin
 
 The **27-inch 4K Gaming Monitor** remained the **top-selling** product throughout the period. Sales **peaked at approximately $3.4M, representing about 37% of total sales in 2021** and an average of approximately **36% of annual sales from 2019 to 2022**. Monitor sales increased by approximately 114% from 2019 to 2020 and another 8% in 2021, before declining by approximately 42% in 2022. Despite the decline, it remained the leading revenue-generating product.
 
-**The MacBook Air Laptop** showed particularly strong growth in **2020, increasing by approximately 384%**, followed by slower growth in 2021 and a **55% decline in 2022**. A similar pattern was observed for the **ThinkPad Laptop**.
+**The MacBook Air Laptop** showed particularly strong growth in **2020, with sales increasing by approximately 384%**, while the **ThinkPad Laptop** followed a similar pattern with substantial growth. In fact, **laptops recorded the highest sales growth among all product categories in 2020, despite not being the top-selling products** overall. Growth slowed in **2021**, followed by **significant declines in 2022**, with MacBook Air sales decreasing by approximately **55%** and ThinkPad sales showing a similar downward trend.
 
 **Overall product sales weakened significantly in 2022**, with total sales **declining by approximately 46% from 2021**. **Bose SoundSport Headphones** experienced the **largest decline**, with sales decreasing by approximately 91% from 2021 to 2022. Since its introduction in 2020, it consistently recorded **the lowest sales revenue and order count among all products in 2020 - 2022**.
 
