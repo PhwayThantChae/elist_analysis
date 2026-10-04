@@ -85,6 +85,15 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
 
 
 ## Loyalty Program
+The **loyalty program**, introduced in **2019**, started with **approximately 2K members and $400K** in sales. Membership grew rapidly to about **13K in 2020**, while loyalty-member sales increased by approximately **614% to $3M**. During the same period, non-loyalty sales grew by **about 108% to $7.2M, their highest level from 2019 to 2022.**
+
+A major shift occurred in **2021**, when loyalty-member sales reached approximately **$4.9M**, surpassing non-loyalty sales of **$4.3M**, as loyalty membership peaked at around **19K members**. Although **sales declined for both groups in 2022**, loyalty-member sales remained higher at approximately **$2.7M compared with $2.2M for non-loyalty customers**.  However, purchasing loyalty customers declined by approximately **43% in 2022**, from **19.6K to 11.1K**, while still remaining slightly higher than non-loyalty customers at **10.5K**.
+
+On a monthly basis, loyalty and non-loyalty sales became roughly equal in **March 2021**. Loyalty-member sales generally outperformed non-loyalty sales afterward, reaching as much as **50% higher in August 2021** and **70% higher in April 2022**. However, loyalty sales weakened starting from September 2022 toward the end of 2022 and were **56% lower than non-loyalty sales by December**.
+
+Despite stronger total sales, loyalty members generally had a **lower average order value (AOV)** than non-loyalty customers from 2019 through 2021. The AOV gap between loyalty and non-loyalty customers was relatively small in 2019 and 2021, averaging around **$20**, but widened in 2020 when non-loyalty AOV reached approximately **$345—about $100 higher than loyalty-member AOV**. In 2022, this trend reversed, with loyalty-member AOV exceeding non-loyalty AOV by approximately **$30**.
+
+Overall, the loyalty program showed **strong membership and sales growth through 2021**, eventually surpassing non-loyalty customers in both total sales and, by 2022, AOV. However, the decline in membership and loyalty sales toward the end of 2022 may indicate **weakening engagement or retention**, which would be worth investigating further.
 
 
 ## Refund Rates
