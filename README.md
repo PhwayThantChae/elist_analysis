@@ -90,7 +90,8 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
 </p>
 
 <p align="center">
-  <img src="charts/13-yearly-aov (loyalty vs non-loyalty).png" height="100%" />
+  <img src="charts/13-yearly-aov (loyalty vs non-loyalty).png?v=2" width="49%" height="100%" />
+  <img src="charts/14-annual-revenue (loyalty vs non-loyalty).png?v=2" width="49%" height="100%" />
 </p>
 
 The **loyalty program**, introduced in **2019**, started with **approximately 2K members and $400K** in sales. Membership grew rapidly to about **13K in 2020**, while loyalty-member sales increased by approximately **614% to $3M**. During the same period, non-loyalty sales grew by **about 108% to $7.2M, their highest level from 2019 to 2022.**
