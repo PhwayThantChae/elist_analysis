@@ -102,7 +102,7 @@ On a monthly basis, **non-loyalty sales consistently outperformed loyalty sales 
 
 From 2019 to 2021, **loyalty customers consistently had a lower AOV than non-loyalty customers**. The AOV gap was relatively small in 2019 and 2021, averaging around **$20**, but widened significantly in 2020, when non-loyalty AOV reached **$345—about $100 higher than loyalty-member AOV**. In 2022, this trend reversed, with loyalty-member AOV exceeding non-loyalty AOV by approximately **$30**.
 
-Overall, the loyalty program showed **strong membership and sales growth through 2021**, eventually surpassing non-loyalty customers in both total sales and, by 2022, AOV. However, the decline in membership and loyalty sales toward the end of 2022 may indicate **weakening engagement or retention**, which would be worth investigating further.
+Overall, the loyalty program showed **strong membership and sales growth through 2021**, eventually surpassing non-loyalty customers in both total sales and, by 2022, AOV. However, the **decline in membership and loyalty sales toward the end of 2022** may indicate **weakening engagement or retention**, which would be worth investigating further.
 
 
 ## Refund Rates
