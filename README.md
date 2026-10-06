@@ -85,6 +85,10 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
 
 
 ## Loyalty Program
+<p align="center">
+  <img src="charts/12-monthly-sales-trend (loyalty vs non-loyalty).png" height="100%" />
+</p>
+
 The **loyalty program**, introduced in **2019**, started with **approximately 2K members and $400K** in sales. Membership grew rapidly to about **13K in 2020**, while loyalty-member sales increased by approximately **614% to $3M**. During the same period, non-loyalty sales grew by **about 108% to $7.2M, their highest level from 2019 to 2022.**
 
 A major shift occurred in **2021**, when loyalty-member sales reached **$4.9M**, surpassing non-loyalty sales of **$4.3M**, as loyalty membership peaked at around **19K members**. Although **sales declined for both groups in 2022**, loyalty-member sales remained higher at **$2.7M compared with $2.2M for non-loyalty customers**.  However, purchasing loyalty customers declined by approximately **43% in 2022**, from **19.6K to 11.1K**, while still remaining slightly higher than non-loyalty customers at **10.5K**.
