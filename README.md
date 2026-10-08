@@ -104,5 +104,12 @@ From 2019 to 2021, **loyalty customers consistently had a lower AOV than non-loy
 
 Overall, the loyalty program showed **strong membership and sales growth through 2021**, eventually surpassing non-loyalty customers in both total sales and, by 2022, AOV. However, the **decline in membership and loyalty sales toward the end of 2022** may indicate **weakening engagement or retention**, which would be worth investigating further.
 
+## Refund Trend for Apple Products
+Among Apple products, **MacBook Air Laptop consistently recorded the highest refund rate from 2019 to 2021**, peaking at **18% in 2019** before declining to **6% in 2021**. Despite this improvement, its refund rate remained above the overall annual refund rate in all three years, including **6% in 2019 and 4% in 2021**.
 
-## Refund Rates
+In contrast, **Apple AirPods Headphones maintained the lowest refund rates** among Apple products, reaching a peak of **10% in 2020**, slightly above the overall annual rate of **9%**, before declining to **4% in 2021**. Meanwhile, **Apple iPhone's refund rate remained at 11% in both 2019 and 2020**, before decreasing to **5% in 2021**. Its refund rate consistently exceeded the overall annual averages of **6%, 9%, and 4%**, respectively.
+
+**Products with higher average order values (AOV) appeared to have higher refund rates** among the three Apple products. For example, MacBook Air Laptop had the highest AOV of approximately **$1.6K** and consistently recorded the highest refund rate from 2019 to 2021. This suggests a potential relationship between order value and refund rate, although further investigation is needed to determine whether higher-priced products are more likely to be refunded.
+
+**All three Apple products experienced significant improvements in refund rates in 2021**, with relative decreases of approximately **55%–65% compared with 2020**. This aligned with the overall refund trend across all products, where the **annual refund rate peaked at 9% in 2020 before declining to 4% in 2021**, the lowest rate during the 2019–2021 period.
+
