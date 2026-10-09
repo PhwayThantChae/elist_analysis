@@ -122,3 +122,4 @@ In contrast, **Apple AirPods Headphones maintained the lowest refund rates** amo
 
 **All three Apple products experienced significant improvements in refund rates in 2021**, with relative decreases of approximately **55%–65% compared with 2020**. This aligned with the overall refund trend across all products, where the **annual refund rate peaked at 9% in 2020 before declining to 4% in 2021**, the lowest rate during the 2019–2021 period.
 
+# Recommendations
