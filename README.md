@@ -2,6 +2,8 @@
 # Overview
 ## ERD
 
+![Alt Text](charts/0-ERD-diagram.png)
+
 # Deep-dive Insights
 ## Sales Trend
 
