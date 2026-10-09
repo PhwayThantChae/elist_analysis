@@ -105,6 +105,9 @@ From 2019 to 2021, **loyalty customers consistently had a lower AOV than non-loy
 Overall, the loyalty program showed **strong membership and sales growth through 2021**, eventually surpassing non-loyalty customers in both total sales and, by 2022, AOV. However, the **decline in membership and loyalty sales toward the end of 2022** may indicate **weakening engagement or retention**, which would be worth investigating further.
 
 ## Refund Trend for Apple Products
+<p align="center">
+  <img src="charts/15-refund-rate-apple-product-vs-annual-refund-rate.png" height="100%" width="90%" />
+</p>
 Among Apple products, **MacBook Air Laptop consistently recorded the highest refund rate from 2019 to 2021**, peaking at **18% in 2019** before declining to **6% in 2021**. Despite this improvement, its refund rate remained above the overall annual refund rate in all three years, including **6% in 2019 and 4% in 2021**.
 
 In contrast, **Apple AirPods Headphones maintained the lowest refund rates** among Apple products, reaching a peak of **10% in 2020**, slightly above the overall annual rate of **9%**, before declining to **4% in 2021**. Meanwhile, **Apple iPhone's refund rate remained at 11% in both 2019 and 2020**, before decreasing to **5% in 2021**. Its refund rate consistently exceeded the overall annual averages of **6%, 9%, and 4%**, respectively.
