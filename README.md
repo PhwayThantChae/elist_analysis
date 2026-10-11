@@ -85,6 +85,9 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
  -->
 
 ## Geography Trends
+
+**North America** was the highest-selling region, with sales peaking at **$5.3M in 2020** and reaching their lowest level of approximately **$2M in 2019**. **LATAM** generated the lowest regional sales, with a peak of **$587K in 2021** and a low of **$206K in 2019**.
+
 <p align="center">
   <img src="charts/17-leading-countries-regional-sales-chart.png" width="80%" />
 </p>
@@ -92,8 +95,6 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
 <p align="center">
   <img src="charts/18-countries-contribution-at-least-two-percent-revenue-chart.png" width="60%" />
 </p>
-
-**North America** was the highest-selling region, with sales peaking at **$5.3M in 2020** and reaching their lowest level of approximately **$2M in 2019**. **LATAM** generated the lowest regional sales, with a peak of **$587K in 2021** and a low of **$206K in 2019**.
 
 In **North America**, the **United States** accounted for approximately **91% of regional sales** and **44–50% of annual global revenue**. **Canada** ranked second, contributing **8% of regional sales** and approximately **4% of annual global revenue**. Each remaining country contributed less than **0.2% of regional sales**.
 
