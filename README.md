@@ -93,6 +93,16 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
   <img src="charts/18-countries-contribution-at-least-two-percent-revenue-chart.png" width="60%" />
 </p>
 
+**North America** was the highest-selling region, with sales peaking at **$5.3M in 2020** and reaching their lowest level of approximately **$2M in 2019**. **LATAM** generated the lowest regional sales, with a peak of **$587K in 2021** and a low of **$206K in 2019**.
+
+In **North America**, the **United States** accounted for approximately **91% of regional sales** and **44–50% of annual global revenue**. **Canada** ranked second, contributing **8% of regional sales** and approximately **4% of annual global revenue**. Each remaining country contributed less than **0.2% of regional sales**.
+
+In **EMEA**, the **United Kingdom** led with approximately **25% of regional sales** and **7–8% of annual global revenue**. It consistently ranked second globally behind the United States from 2019–2022. **Germany** followed, accounting for approximately **12% of regional sales** and **3–4% of annual global revenue**.
+
+In **APAC**, **Japan** contributed approximately **28% of regional sales**, followed closely by **Australia** at **27%**. Japan accounted for approximately **2–4% of annual global revenue**, while Australia contributed **3–4%**.
+
+In **LATAM**, **Brazil** led with approximately **44% of regional sales** and **2–3% of annual global revenue**. **Mexico** ranked second, contributing approximately **16.45% of regional sales** and **1% of annual global revenue**.
+
 
 ## Loyalty Program
 <p align="center">
