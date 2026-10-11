@@ -84,6 +84,13 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
  -->
 
 ## Geography Trends
+<p align="center">
+  <img src="charts/17-leading-countries-regional-sales-chart.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="charts/18-countries-contribution-at-least-two-percent-revenue-chart.png" width="60%" />
+</p>
 
 
 ## Loyalty Program
