@@ -1,8 +1,9 @@
 
 # Overview
 ## ERD
-
-![Alt Text](charts/0-ERD-diagram.png)
+<p align="center">
+  <img src="charts/0-ERD-diagram.png" width="80%" height="100%" />
+</p>
 
 # Deep-dive Insights
 ## Sales Trend
