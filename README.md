@@ -62,7 +62,7 @@ Overall, the data suggests a recurring seasonal pattern of stronger growth appro
 ## Product Trends
 
 <p align="center">
-  <img src="charts/5-product-pareto-revenue-analysis.png?v=3" width="65%" />
+  <img src="charts/5-product-pareto-revenue-analysis.png?v=2" width="65%" />
 </p>
 
 
