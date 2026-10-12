@@ -16,17 +16,17 @@ The findings will support **inventory and marketing planning, loyalty-program ev
 The diagram below illustrates the relationships between tables in Gadget Avenueâ€™s e-commerce dataset.
 
 <p align="center">
-  <img src="charts/0-ERD-diagram.png" width="50%" height="100%" />
+  <img src="charts/0-ERD-diagram.png?v=20261012" width="50%" height="100%" />
 </p>
 
 # Business Insights
 ## Sales Trend
 
-![Alt Text](charts/1-monthly-revenue-chart.png?v=2)
+![Alt Text](charts/1-monthly-revenue-chart.png?v=20261012)
 
 <p align="center">
-  <img src="charts/2-monthly-order-count-chart.png?v=2" width="49%" height="100%" />
-  <img src="charts/3-monthly-aov-chart.png?v=2" width="49%" height="100%" />
+  <img src="charts/2-monthly-order-count-chart.png?v=20261012" width="49%" height="100%" />
+  <img src="charts/3-monthly-aov-chart.png?v=20261012" width="49%" height="100%" />
 </p>
 
 | **Revenue** | **Order Volume** | **Average Order Value (AOV)** |
@@ -37,7 +37,7 @@ The diagram below illustrates the relationships between tables in Gadget Avenueâ
 <p align="center"><strong>Monthly Sales Seasonality By Year (2019 - 2022)</strong></p>
 
 <p align="center">
-  <img src="charts/4-monthly-sales-seasonality-trend-table.png" width="55%" height="100%" />
+  <img src="charts/4-monthly-sales-seasonality-trend-table.png?v=20261012" width="55%" height="100%" />
 </p>
 
 **Peak Sales Months**: In 2019 and 2020, annual sales peaked in **December**, aligning with the holiday shopping season. In 2021 and 2022, however, the peak shifted to **January**, suggesting a change in the seasonal sales pattern toward the beginning of the year.
@@ -47,10 +47,10 @@ The diagram below illustrates the relationships between tables in Gadget Avenueâ
 ### Growth Rates
 
 <p align="center">
-  <img src="charts/7-mom-sales-growth-2019.png" width="49%" height="80%" />
-  <img src="charts/8-mom-sales-growth-2020.png" width="49%" height="80%" />
-  <img src="charts/9-mom-sales-growth-2021.png" width="49%" height="80%" />
-  <img src="charts/10-mom-sales-growth-2022.png" width="49%" height="80%" />
+  <img src="charts/7-mom-sales-growth-2019.png?v=20261012" width="49%" height="80%" />
+  <img src="charts/8-mom-sales-growth-2020.png?v=20261012" width="49%" height="80%" />
+  <img src="charts/9-mom-sales-growth-2021.png?v=20261012" width="49%" height="80%" />
+  <img src="charts/10-mom-sales-growth-2022.png?v=20261012" width="49%" height="80%" />
 </p>
 
 The **strongest sales growth** occurred around **November and December in three of the four years**, indicating sales momentum typically builds ahead of the December/January peak period. **The steepest month-over-month** declines generally occurred either after the holiday season or before the year-end shopping period, particularly around **February and October**. 
@@ -62,13 +62,13 @@ Overall, the data suggests a recurring seasonal pattern of stronger growth appro
 ## Product Trends
 
 <p align="center">
-  <img src="charts/5-product-pareto-revenue-analysis.png?v=3" width="65%" />
+  <img src="charts/5-product-pareto-revenue-analysis.png?v=20261012" width="65%" />
 </p>
 
 
 <p align="center">
-  <img src="charts/11-top-4-products-total-sales.png?v=3" width="60%" />
-  <img src="charts/6-yoy-product-sales-growth.png" width="39%" height="100%" />
+  <img src="charts/11-top-4-products-total-sales.png?v=20261012" width="60%" />
+  <img src="charts/6-yoy-product-sales-growth.png?v=20261012" width="39%" height="100%" />
 </p>
 
 The **top three selling products** from 2019 to 2022 were the **27-inch 4K Gaming Monitor, Apple AirPods Headphones, and MacBook Air Laptop**. Together, these products accounted for approximately **85% of total sales**, indicating that revenue was highly concentrated among a small number of products.
@@ -90,11 +90,11 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
 **North America** was the highest-selling region, with sales peaking at **$5.3M in 2020** and reaching their lowest level of approximately **$2M in 2019**. **LATAM** generated the lowest regional sales, with a peak of **$587K in 2021** and a low of **$206K in 2019**.
 
 <p align="center">
-  <img src="charts/17-leading-countries-regional-sales-chart.png" width="80%" />
+  <img src="charts/17-leading-countries-regional-sales-chart.png?v=20261012" width="80%" />
 </p>
 
 <p align="center">
-  <img src="charts/18-countries-contribution-at-least-two-percent-revenue-chart.png" width="60%" />
+  <img src="charts/18-countries-contribution-at-least-two-percent-revenue-chart.png?v=20261012" width="60%" />
 </p>
 
 In **North America**, the **United States** accounted for approximately **91% of regional sales** and **44â€“50% of annual global revenue**. **Canada** ranked second, contributing **8% of regional sales** and approximately **4% of annual global revenue**. Each remaining country contributed less than **0.2% of regional sales**.
@@ -108,12 +108,12 @@ In **LATAM**, **Brazil** led with approximately **44% of regional sales** and **
 
 ## Loyalty Program
 <p align="center">
-  <img src="charts/12-monthly-sales-trend (loyalty vs non-loyalty).png" height="100%" />
+  <img src="charts/12-monthly-sales-trend (loyalty vs non-loyalty).png?v=20261012" height="100%" />
 </p>
 
 <p align="center">
-  <img src="charts/13-yearly-aov (loyalty vs non-loyalty).png?v=2" width="49%" height="100%" />
-  <img src="charts/14-annual-revenue (loyalty vs non-loyalty).png?v=2" width="49%" height="100%" />
+  <img src="charts/13-yearly-aov (loyalty vs non-loyalty).png?v=20261012" width="49%" height="100%" />
+  <img src="charts/14-annual-revenue (loyalty vs non-loyalty).png?v=20261012" width="49%" height="100%" />
 </p>
 
 The **loyalty program**, introduced in **2019**, started with **approximately 2K members and $400K** in sales. Membership grew rapidly to about **13K in 2020**, while loyalty-member sales increased by approximately **614% to $3M**. During the same period, non-loyalty sales grew by **about 108% to $7.2M, their highest level from 2019 to 2022.**
@@ -129,7 +129,7 @@ Overall, the loyalty program showed **strong membership and sales growth through
 ## Refund Trend for Apple Products
 
 <p align="center">
-  <img src="charts/15-refund-rate-apple-product-vs-annual-refund-rate.png" height="100%" width="70%" />
+  <img src="charts/15-refund-rate-apple-product-vs-annual-refund-rate.png?v=20261012" height="100%" width="70%" />
 </p>
 
 Among Apple products, **MacBook Air Laptop consistently recorded the highest refund rate from 2019 to 2021**, peaking at **18% in 2019** before declining to **6% in 2021**. Despite this improvement, its refund rate remained above the overall annual refund rate in all three years, including **6% in 2019 and 4% in 2021**.
@@ -137,7 +137,7 @@ Among Apple products, **MacBook Air Laptop consistently recorded the highest ref
 In contrast, **Apple AirPods Headphones maintained the lowest refund rates** among Apple products, reaching a peak of **10% in 2020**, slightly above the overall annual rate of **9%**, before declining to **4% in 2021**. Meanwhile, **Apple iPhone's refund rate remained at 11% in both 2019 and 2020**, before decreasing to **5% in 2021**. Its refund rate consistently exceeded the overall annual averages of **6%, 9%, and 4%**, respectively.
 
 <p align="center">
-  <img src="charts/16-refund-rate-product-vs-aov.png" height="100%" width="70%" />
+  <img src="charts/16-refund-rate-product-vs-aov.png?v=20261012" height="100%" width="70%" />
 </p>
 
 **Products with higher average order values (AOV) appeared to have higher refund rates** among all products. For example, MacBook Air Laptop had the highest AOV of approximately **$1.6K** and consistently recorded the highest refund rate from 2019 to 2021. A similar pattern was observed for the **ThinkPad Laptop, Apple iPhone and Gaming Monitor**, suggesting a potential positive relationship between AOV and refund rates.
