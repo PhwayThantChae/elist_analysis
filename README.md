@@ -16,10 +16,10 @@ The findings will support **inventory and marketing planning, loyalty-program ev
 The diagram below illustrates the relationships between tables in Gadget Avenue’s e-commerce dataset.
 
 <p align="center">
-  <img src="charts/0-ERD-diagram.png" width="80%" height="100%" />
+  <img src="charts/0-ERD-diagram.png" width="50%" height="100%" />
 </p>
 
-# Deep-dive Insights
+# Business Insights
 ## Sales Trend
 
 ![Alt Text](charts/1-monthly-revenue-chart.png?v=2)
