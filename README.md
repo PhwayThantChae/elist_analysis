@@ -139,7 +139,7 @@ In contrast, **Apple AirPods Headphones maintained the lowest refund rates** amo
   <img src="charts/16-refund-rate-product-vs-aov.png" height="100%" width="70%" />
 </p>
 
-**Products with higher average order values (AOV) appeared to have higher refund rates** among the three Apple products. For example, MacBook Air Laptop had the highest AOV of approximately **$1.6K** and consistently recorded the highest refund rate from 2019 to 2021. A similar pattern was observed for the **ThinkPad Laptop, Apple iPhone and Gaming Monitor**, suggesting a potential positive relationship between AOV and refund rates.
+**Products with higher average order values (AOV) appeared to have higher refund rates** among all products. For example, MacBook Air Laptop had the highest AOV of approximately **$1.6K** and consistently recorded the highest refund rate from 2019 to 2021. A similar pattern was observed for the **ThinkPad Laptop, Apple iPhone and Gaming Monitor**, suggesting a potential positive relationship between AOV and refund rates.
 
 **All three Apple products experienced significant improvements in refund rates in 2021**, with relative decreases of approximately **55%–65% compared with 2020**. This aligned with the overall refund trend across all products, where the **annual refund rate peaked at 9% in 2020 before declining to 4% in 2021**, the lowest rate during the 2019–2021 period.
 
