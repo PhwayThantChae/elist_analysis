@@ -1,6 +1,18 @@
 
-# Overview
-## ERD
+# Project Overview
+
+Founded in 2018, **Gadget Avenue** is a global e-commerce company selling electronics through its website and mobile app. Its popular products include Apple, Samsung, and ThinkPad devices, promoted through email campaigns, SEO, and affiliate links. From **2019–2022**, the company served approximately **100,000 customers across 196 countries and four regions**, generating **$28.1 million in net revenue**.
+
+This project analyzes **108,127 order records**, supported by customer, product, order-status, and geographic data. The dataset includes purchase, delivery, and refund timestamps, purchasing platforms, and country and region codes.
+
+The project aims to turn this data into actionable insights for finance, sales, product, and marketing teams and focuses on three business questions:
+
+- **Sales performance:** How did revenue, order volume, and average order value change over time and across products and geographies? Which products and months performed best or worst, and were there seasonal patterns?
+- **Loyalty program:** How did purchasing patterns differ between loyalty and non-loyalty customers, and what do these trends suggest about continuing or adjusting the program?
+- **Apple product refunds:** How did refund rates vary by product and year?
+
+The findings will support **inventory and marketing planning, loyalty-program evaluation, and investigations into products with elevated refund rates**, helping the company improve operations and customer experience.
+# ERD
 <p align="center">
   <img src="charts/0-ERD-diagram.png" width="80%" height="100%" />
 </p>
