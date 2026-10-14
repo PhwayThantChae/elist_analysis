@@ -86,6 +86,10 @@ Despite the significant decline in 2022, **post-COVID sales remained above pre-C
 
 ## Geography Trends
 
+<p align="center">
+  <img src="charts/19-annual-revenue-by-region-chart.png" width="70%" />
+</p>
+
 **North America** was the highest-selling region, with sales peaking at **$5.3M in 2020** and reaching their lowest level of approximately **$2M in 2019**. **LATAM** generated the lowest regional sales, with a peak of **$587K in 2021** and a low of **$206K in 2019**.
 
 <p align="center">
