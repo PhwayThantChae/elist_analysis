@@ -148,3 +148,28 @@ In contrast, **Apple AirPods Headphones maintained the lowest refund rates** amo
 **All three Apple products experienced significant improvements in refund rates in 2021**, with relative decreases of approximately **55%–65% compared with 2020**. This aligned with the overall refund trend across all products, where the **annual refund rate peaked at 9% in 2020 before declining to 4% in 2021**, the lowest rate during the 2019–2021 period.
 
 # Recommendations
+
+## Sales
+
+- **Prepare for the November–January sales period.** Peak sales shifted from December to January in 2021 and 2022, while monthly growth patterns indicate that sales momentum builds from November. Plan inventory and staffing ahead of this period.
+- **Address recurring declines in February and October.** Test targeted promotions ahead of these slower months, and monitor profit margins to ensure discounts generate profitable sales.
+
+## Products
+
+- **Review Bose SoundSport Headphones’ performance.** Investigate customer reviews, demand, and profitability to understand the product’s weak sales. Consider discontinuing it if its performance does not justify continued inventory investment.
+- **Strengthen ThinkPad’s positioning.** ThinkPad and MacBook Air laptops followed similar growth patterns, but ThinkPad generated approximately half the revenue. Test campaigns positioning ThinkPad for work and business use, highlighting verified features relevant to these customers. Offer bundles with monitors or accessories to encourage purchases.
+
+## Regional Sales
+
+- **Prioritize established markets outside the US.** Focus country-specific campaigns on the UK, Canada, Australia, Japan, Germany, and Brazil, tailoring product offers and messaging to each market.
+- **Test targeted campaigns in LATAM.** Align promotions with local holidays and back-to-school periods. Explore offers for university students, educators, and schools, then evaluate results before expanding investment.
+
+## Loyalty Program
+
+- **Continue the program and investigate the late-2022 decline.** Loyalty sales generally outperformed non-loyalty sales after March 2021, but weakened from September through December 2022. Examine changes in purchasing activity, repeat purchases, and promotion engagement to identify possible causes.
+- **Encourage higher spending per order.** Test complementary product bundles, relevant upgrades, and membership tiers that reward higher spending. Monitor average order value and profitability to assess their effectiveness.
+
+## Apple Product Refunds
+
+- **Investigate MacBook Air’s elevated refund rates.** Review refund reasons with the product team and compare results across models or versions to determine whether defects, product expectations, or other factors contributed.
+- **Conduct a similar review for Apple iPhone refunds.** Use the findings to improve product descriptions, quality checks, and customer support where needed.
