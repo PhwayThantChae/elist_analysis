@@ -132,6 +132,11 @@ Overall, the loyalty program showed **strong membership and sales growth through
 ## Refund Trend
 
 ### All Products
+
+<p align="center">
+  <img src="charts/20-all-products-refund-rate-chart.png" height="100%" width="80%" />
+</p>
+
 ThinkPad and MacBook Air laptops had the highest refund rates, reaching 17–18% in 2019 and 2020, followed by the Apple iPhone and Gaming Monitor. All four products exceeded the overall annual refund rate in 2019–2021. The overall refund rate peaked at 9% in 2020.
 
 **Note:** Refund data is available only through July 2021, so 2021 figures are incomplete and refund trends after that date cannot be assessed.
