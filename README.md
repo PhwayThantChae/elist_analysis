@@ -181,7 +181,7 @@ In contrast, **Apple AirPods Headphones maintained the lowest refund rates** amo
 - **Continue the program and investigate the late-2022 decline.** Loyalty sales generally outperformed non-loyalty sales after March 2021, but weakened from September through December 2022. Examine changes in purchasing activity, repeat purchases, and promotion engagement to identify possible causes.
 - **Encourage higher spending per order.** Test complementary product bundles, relevant upgrades, and membership tiers that reward higher spending. Monitor average order value and profitability to assess their effectiveness.
 
-## Apple Product Refunds
+## Product Refunds
 
-- **Investigate MacBook Air’s elevated refund rates.** Review refund reasons with the product team and compare results across models or versions to determine whether defects, product expectations, or other factors contributed.
+- **Investigate Thinkpad and MacBook Air’s elevated refund rates.** Review refund reasons with the product team and compare results across models or versions to determine whether defects, product expectations, or other factors contributed.
 - **Conduct a similar review for Apple iPhone refunds.** Use the findings to improve product descriptions, quality checks, and customer support where needed.
